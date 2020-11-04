@@ -8,3 +8,15 @@ Flaskr- A blog site made using Flask and following the Flask Tutorial
 3. On Windows in cmd, run the command `set FLASK_APP=flaskr`. Or if on Linux in Terminal, run `export FLASK_APP=flaskr`.
 4. Activate the virtual environment if you made one, then run the command `flask run` to start the webserver.
 5. Visit `http://127.0.0.1:5000/` with your web browser to access the site.
+
+## Future Improvements
+I plan to add some features for further practice.
+- [ ] A detail view to show a single post. Click a post’s title to go to its page.
+- [ ] Like / unlike a post.
+- [ ] Comments.
+- [ ] Tags. Clicking a tag shows all the posts with that tag.
+- [ ] A search box that filters the index page by name.
+- [ ] Paged display. Only show 5 posts per page.
+- [ ] Upload an image to go along with a post.
+- [ ] Format posts using Markdown.
+- [ ] An RSS feed of new posts.
